@@ -8,6 +8,7 @@ public class Test {
         Scanner sc=new Scanner(System.in);
         String username=sc.next();
         System.out.println("你的用户名："+username);
+
         System.out.println("请输入密码：");
         String password=sc.next();
 

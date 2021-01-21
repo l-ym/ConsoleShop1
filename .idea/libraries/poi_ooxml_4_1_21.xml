@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="xmlbeans-3.1.0">
+  <library name="poi-ooxml-4.1.21">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Desktop/poi/xmlbeans-3.1.0.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/poi-ooxml-4.1.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
